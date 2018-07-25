@@ -1,21 +1,17 @@
-# MonkeyPinch
+# CustomSliderExample
 
-In this tutorial, you’ll learn:
+In this tutorial, you will implement your very own RangeSlider custom control. 
 
-- add gesture recognizers into your app
-	-  within the Storyboard editor in Xcode
-	-  and programatically.
-- dragging
-- pinching
-- rotating
+This control is like a double-ended slider, where you can pick both a minimum and maximum value. 
 
-You’ll also try out:
+You’ll touch on such concepts as:
 
-- Adding deceleration for movement
-- Setting dependencies between gesture recognizers
-- Creating a custom UIGestureRecognizer so you can tickle the monkey!
+- extending existing controls, 
+- designing 
+- and implementing your control’s API, 
+- and even how to share your new control with the development community.
 
-![screenshot](https://koenig-media.raywenderlich.com/uploads/2017/07/Screenshot-2017-07-17-17.43.15.png)
+![screenshot](https://koenig-media.raywenderlich.com/uploads/2013/05/Screenshot-5.png)
 
 ---
 
